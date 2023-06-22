@@ -180,7 +180,7 @@
     "ramda": "0.27.1",
     "semantic-release": "17.2.3",
     "semantic-release-monorepo": "7.0.3",
-    "semver": "7.3.2",
+    "semver": "7.5.2",
     "shelljs": "0.8.3",
     "shx": "0.3.3",
     "sinon": "7.3.2",
